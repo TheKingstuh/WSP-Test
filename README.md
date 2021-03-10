@@ -14,4 +14,4 @@
     6. Style: `guide`
     7. Which style guide: `airbnb`
     8. Config file: `json`
-    9. Add `"lint": "eslint */*.js --fix"` to package.json under scripts
+6. Add `"lint": "eslint */*.js --fix"` to package.json under scripts
